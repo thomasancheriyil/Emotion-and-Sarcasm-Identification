@@ -1,0 +1,3 @@
+Indian	JJ	N
+lost	VBD	S
+

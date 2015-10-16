@@ -1,0 +1,19 @@
+post	NN	H
+post	NN	H
+post	NN	P
+post	NN	S
+celebrating	VBG	N
+post	NN	N
+black	JJ	N
+white	JJ	N
+weighing	VBG	N
+black	JJ	N
+white	JJ	N
+looked	VBD	A
+few	JJ	S
+post	NN	P
+replied	VBD	H
+worried	VBN	H
+post	NN	P
+post	NN	P
+

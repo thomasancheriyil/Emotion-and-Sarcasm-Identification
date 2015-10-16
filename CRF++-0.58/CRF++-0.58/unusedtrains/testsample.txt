@@ -1,0 +1,9 @@
+Confidence NN 
+in IN 
+the DT 
+pound NN 
+is VBZ 
+widely RB 
+misjudged VBN 
+
+. . O

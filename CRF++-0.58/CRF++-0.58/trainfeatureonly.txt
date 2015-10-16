@@ -1,0 +1,290 @@
+
+
+won VBD H
+
+bad JJ S
+
+
+was VBD N
+
+decorated VBN N
+
+see VBP N
+
+. . N
+
+
+
+go VB N
+
+. . N
+
+went VBD N
+
+. . N 
+
+
+had VBD N
+
+spent VBN N
+
+much JJ N
+
+did VBD N
+
+want VB N
+
+do VB N
+
+hurt VB S
+
+. . N
+
+
+got VBD N
+married VBN N
+. . N
+
+
+was VBD N
+gloomy JJ S
+
+. . N
+
+
+
+gathered VBD N
+
+replied VBD N
+
+happened VBD N
+
+were VBD N
+
+avoiding VBG D
+
+Has VBZ N
+
+told VBD N
+
+? . D
+did VBD N
+
+reply VB N
+. . N
+
+
+started VBD N
+picking VBG N
+
+spoke VBD N
+
+. . N
+
+
+repeated VBN N
+questioning VBG N
+
+told VBD N 
+
+. . N
+
+
+was VBD N
+
+depressed JJ S
+
+worried JJ S
+. . N
+
+
+
+gathered VBD N
+
+
+replied VBD N
+
+happened VBD N
+? . SU
+
+were VBD N
+
+avoiding VBG S
+? . N
+Has VBZ N
+
+told VBD N
+
+? . D
+
+did VBD N
+
+reply VB N
+. . N
+
+
+started VBD N
+avoiding VBG D
+
+bad JJ S
+. . N
+
+
+used VBD N
+
+switch VB N
+
+cut VBD N
+
+reply VB N
+
+. . N
+
+
+got VBD N
+tensed VBN F
+. . N
+
+
+wanted VBD N
+
+was VBD N
+
+scared JJ F
+. . N
+
+
+get VBP N
+
+
+. . N
+
+
+was VBD N
+
+Are VBP N
+
+? . D
+
+did VBD N
+
+know VB N
+
+came VBD N
+
+
+was VBD N
+scared VBN F
+. . N
+
+
+
+was VBD N
+fixed VBN N
+12th JJ N
+. . N
+
+
+were VBD N
+increasing VBG H
+loved VBD H
+. . N 
+
+
+got VBD N 
+know VB N
+severe JJ S
+promised VBD N
+quit VB  N
+was VBD N
+fine JJ N
+suddenly RB SU
+avoiding VBG D
+bad JJ S
+. . N
+
+
+used VBD N
+switch VB N
+cut VBD N
+reply VB N
+
+
+got VBD N
+tensed VBN F
+. . N
+
+
+wanted VBD N
+inform VB N
+was VBD N
+scared JJ F
+. . N
+
+
+
+had VBD N
+read VBN H
+thought VBD N
+available JJ H
+was VBD N
+was VBD N
+directing VBG H
+right JJ H
+
+
+discussed VBN N
+was VBD N
+
+
+
+used VBD N
+call VB N
+. . N
+
+
+got VBD N
+involved VBN H
+
+
+met VBD N
+first JJ H
+was VBD N
+
+
+
+looked VBD N
+
+
+fell VBD N
+had VBD N
+go VB N
+same JJ N
+
+
+
+was VBD N
+fixed VBN N
+12th JJ N
+. . N
+
+
+were VBD N
+increasing VBG H
+loved VBD H
+. . N
+
+got VBD N
+know VB N
+severe JJ S
+promised VBD N
+was VBD N
+fine JJ N
+won VBD H
+. . N
+
+
+started VBD N
+avoiding VBG D
+bad JJ S
+. . N

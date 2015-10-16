@@ -1,0 +1,2 @@
+crf_learn template_file train_file model_file
+crf_test -m model_file test_files

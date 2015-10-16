@@ -1,0 +1,9 @@
+Confidence NN H
+in IN D
+the DT S
+pound NN H
+is VBZ A
+widely RB H
+expected VBN S
+
+. . O

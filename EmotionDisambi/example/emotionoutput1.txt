@@ -1,0 +1,27 @@
+post	NN	P
+post	NN	P
+generalised	VBN	D
+single	JJ	N
+similar	JJ	N
+terrible	JJ	D
+post	NN	P
+post	NN	P
+Indian	JJ	N
+lost	VBD	S
+post	NN	P
+erupted	VBD	A
+energetic	JJ	H
+ugly	JJ	A
+was	VBD	N
+blue	JJ	N
+inane	JJ	A
+was	VBD	N
+tricky	JJ	A
+declared	VBD	A
+post	NN	P
+gathered	VBD	N
+was	VBD	N
+depressed	JJ	F
+post	NN	P
+post	NN	P
+

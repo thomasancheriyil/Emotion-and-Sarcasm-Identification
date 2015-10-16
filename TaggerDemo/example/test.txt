@@ -1,0 +1,4 @@
+The/DT CM/NN verdict/NN has/VBZ come/VBN and/CC is/VBZ against/IN the/DT ruling/VBG party/NN ./.
+I/PRP went/VBD to/TO school/NN ./.
+The/DT CM/NN went/VBD to/TO chennai/NNS ./.
+verdict/NN of/IN CM/NN is/VBZ expected/VBN to/TO shake/VB the/DT TN/NN government/NN ./.

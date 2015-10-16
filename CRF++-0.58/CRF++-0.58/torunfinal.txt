@@ -1,0 +1,2 @@
+crf_learn template1.txt training.txt model.txt
+crf_test -m model.txt emotionfeature.txt > emotionoutput.txt

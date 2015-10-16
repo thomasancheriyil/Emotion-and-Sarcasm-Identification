@@ -1,0 +1,8 @@
+neutral
+neutral
+disgust
+neutral
+sad
+anger
+fear
+neutral

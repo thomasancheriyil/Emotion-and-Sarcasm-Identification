@@ -1,0 +1,5 @@
+  javac -cp stanford-postagger.jar TaggerDemo.java
+  java -cp ".;stanford-postagger.jar" TaggerDemo models\english-bidirectional-distsim.tagger sarcasm1output1.txt > sarcasm1posout1.txt
+  javac check1.java
+  java check1
+

@@ -1,0 +1,215 @@
+DEBUG (VerbDecomposer.java:253) - Moving the AUX tree to the first child of the main clause:
+
+DEBUG (VerbDecomposer.java:255) - (ROOT
+  (S
+    (Q-AUX (Q <quesPhrase>) (AUX-VBD did))
+    (SBAR (RB even-1) (IN upon-2)
+      (S
+        (VP (VBD repeated-3)
+          (S
+            (VP (VBG questioning-4))))))
+    (, ,-5)
+    (NP (PRP he-6))
+    (ADVP (RB never-7))
+    (VP (VB tell)
+      (S
+        (NP (PRP me-9))
+        (NP
+          (NP (DT the-10) (NN reason-11))
+          (PP (IN for-12)
+            (NP (PRP$ his-13) (NN behavior-14))))))
+    (. .-15)))
+
+DEBUG (VerbDecomposer.java:277) - Inverted Tree:
+(ROOT
+  (SQ
+    (Q-AUX (Q <quesPhrase>) (AUX-VBD did))
+    (SBAR (RB even-1) (IN upon-2)
+      (S
+        (VP (VBD repeated-3)
+          (S
+            (VP (VBG questioning-4))))))
+    (, ,-5)
+    (NP (PRP he-6))
+    (ADVP (RB never-7))
+    (VP (VB tell)
+      (S
+        (NP (PRP me-9))
+        (NP
+          (NP (DT the-10) (NN reason-11))
+          (PP (IN for-12)
+            (NP (PRP$ his-13) (NN behavior-14))))))
+    (. .-15)))
+
+DEBUG (QAPhraseGenerator.java:39) - Terms: [{"Even"; POS: RB}, {"upon"; POS: IN}, {"repeated"; POS: VBN}, {"questioning"; POS: NN}, {"told"; POS: VBD}, {"reason"; POS: NN}, {"behaviour"; POS: NN}]
+DEBUG (UnmovableTreeMarker.java:114) - After UNMV: (ROOT
+  (S
+    (NP (PRP I-1))
+    (VP (VBD was-2)
+      (ADJP (RB really-3) (JJ depressed-4)
+        (CC and-5)
+        (JJ worried-6)))
+    (. .-7)))
+
+DEBUG (VerbDecomposer.java:142) - Decomposing the verb
+
+DEBUG (VerbDecomposer.java:247) - Auxiliarized Tree:
+(ROOT
+  (S
+    (NP (PRP I-1))
+    (VP
+      (Q-AUX (Q <quesPhrase>) (AUX was-2))
+      (ADJP (RB really-3) (JJ depressed-4)
+        (CC and-5)
+        (JJ worried-6)))
+    (. .-7)))
+
+DEBUG (VerbDecomposer.java:253) - Moving the AUX tree to the first child of the main clause:
+
+DEBUG (VerbDecomposer.java:255) - (ROOT
+  (S
+    (Q-AUX (Q <quesPhrase>) (AUX was-2))
+    (NP (PRP I-1))
+    (VP
+      (ADJP (RB really-3) (JJ depressed-4)
+        (CC and-5)
+        (JJ worried-6)))
+    (. .-7)))
+
+DEBUG (VerbDecomposer.java:277) - Inverted Tree:
+(ROOT
+  (SQ
+    (Q-AUX (Q <quesPhrase>) (AUX was-2))
+    (NP (PRP I-1))
+    (VP
+      (ADJP (RB really-3) (JJ depressed-4)
+        (CC and-5)
+        (JJ worried-6)))
+    (. .-7)))
+
+DEBUG (QAPhraseGenerator.java:39) - Terms: [{"really"; POS: RB}, {"depressed"; POS: JJ}, {"worried"; POS: JJ}]
+DEBUG (TreeBreaker.java:112) - Breaking sentences.
+DEBUG (TreeBreaker.java:116) - Count of original one: 1
+DEBUG (StanfordParser.java:149) - Parsing sentence
+DEBUG (StanfordParser.java:154) - Tokenization: [post]
+DEBUG (TreeBreaker.java:126) - Sentence 0 :post
+DEBUG (TreeBreaker.java:127) - (ROOT
+  (FRAG [5.811] (JJ [1.948] post)))
+
+
+DEBUG (TreeBreaker.java:283) - New answers: post 
+DEBUG (StanfordParser.java:149) - Parsing sentence
+DEBUG (StanfordParser.java:154) - Tokenization: [post]
+DEBUG (StanfordParser.java:149) - Parsing sentence
+DEBUG (StanfordParser.java:154) - Tokenization: [post]
+DEBUG (UnmovableTreeMarker.java:114) - After UNMV: (ROOT
+  (FRAG (JJ post-1)))
+
+DEBUG (VerbDecomposer.java:142) - Decomposing the verb
+
+DEBUG (VerbDecomposer.java:242) - No verb found here, returning null.
+DEBUG (VerbDecomposer.java:243) - Tree: (ROOT
+  (FRAG (JJ post-1)))
+
+DEBUG (TreeBreaker.java:112) - Breaking sentences.
+DEBUG (TreeBreaker.java:116) - Count of original one: 1
+DEBUG (StanfordParser.java:149) - Parsing sentence
+DEBUG (StanfordParser.java:154) - Tokenization: [The, saddest, feeling, in, the, world, is, watching, your, father, cry, .]
+DEBUG (TreeBreaker.java:126) - Sentence 0 :The saddest feeling in the world is watching your father cry.
+DEBUG (TreeBreaker.java:127) - (ROOT
+  (S [81.370]
+    (NP [38.782]
+      (NP [27.237] (DT [2.455] The) (JJ [12.883] saddest) (NN [9.198] feeling))
+      (PP [11.179] (IN [1.850] in)
+        (NP [8.927] (DT [0.650] the) (NN [6.090] world))))
+    (VP [39.759] (VBZ [0.144] is)
+      (VP [35.498] (VBG [5.964] watching)
+        (NP [27.448] (PRP$ [3.777] your) (NN [8.199] father) (NN [10.249] cry))))
+    (. [0.002] .)))
+
+
+DEBUG (TreeBreaker.java:283) - New answers: The saddest feeling in the world is watching your father cry. 
+DEBUG (StanfordParser.java:149) - Parsing sentence
+DEBUG (StanfordParser.java:154) - Tokenization: [The, saddest, feeling, in, the, world, is, watching, your, father, cry, .]
+DEBUG (StanfordParser.java:149) - Parsing sentence
+DEBUG (StanfordParser.java:154) - Tokenization: [the, saddest, feeling, in, the, world, is, watching, your, father, cry, .]
+DEBUG (UnmovableTreeMarker.java:114) - After UNMV: (ROOT
+  (S
+    (NP
+      (NP (DT the-1) (JJ saddest-2) (NN feeling-3))
+      (PP (IN in-4)
+        (NP (DT the-5) (NN world-6))))
+    (VP (VBZ is-7)
+      (VP (VBG watching-8)
+        (NP (PRP$ your-9) (NN father-10) (NN cry-11))))
+    (. .-12)))
+
+DEBUG (VerbDecomposer.java:142) - Decomposing the verb
+
+DEBUG (VerbDecomposer.java:145) - VPs with two or more verbs.
+
+DEBUG (VerbDecomposer.java:247) - Auxiliarized Tree:
+(ROOT
+  (S
+    (NP
+      (NP (DT the-1) (JJ saddest-2) (NN feeling-3))
+      (PP (IN in-4)
+        (NP (DT the-5) (NN world-6))))
+    (VP
+      (Q-AUX (Q <quesPhrase>) (AUX is-7))
+      (VP (VBG watching-8)
+        (NP (PRP$ your-9) (NN father-10) (NN cry-11))))
+    (. .-12)))
+
+DEBUG (VerbDecomposer.java:253) - Moving the AUX tree to the first child of the main clause:
+
+DEBUG (VerbDecomposer.java:255) - (ROOT
+  (S
+    (Q-AUX (Q <quesPhrase>) (AUX is-7))
+    (NP
+      (NP (DT the-1) (JJ saddest-2) (NN feeling-3))
+      (PP (IN in-4)
+        (NP (DT the-5) (NN world-6))))
+    (VP
+      (VP (VBG watching-8)
+        (NP (PRP$ your-9) (NN father-10) (NN cry-11))))
+    (. .-12)))
+
+DEBUG (VerbDecomposer.java:277) - Inverted Tree:
+(ROOT
+  (SQ
+    (Q-AUX (Q <quesPhrase>) (AUX is-7))
+    (NP
+      (NP (DT the-1) (JJ saddest-2) (NN feeling-3))
+      (PP (IN in-4)
+        (NP (DT the-5) (NN world-6))))
+    (VP
+      (VP (VBG watching-8)
+        (NP (PRP$ your-9) (NN father-10) (NN cry-11))))
+    (. .-12)))
+
+DEBUG (QAPhraseGenerator.java:39) - Terms: [{"The"; POS: DT}, {"saddest"; POS: JJS}, {"feeling"; POS: NN}, {"world"; POS: NN}, {"watching"; POS: VBG}, {"father"; POS: NN; NE types: NErelation}, {"cry"; POS: NN}]
+DEBUG (TreeBreaker.java:112) - Breaking sentences.
+DEBUG (TreeBreaker.java:116) - Count of original one: 1
+DEBUG (StanfordParser.java:149) - Parsing sentence
+DEBUG (StanfordParser.java:154) - Tokenization: [post]
+DEBUG (TreeBreaker.java:126) - Sentence 0 :post
+DEBUG (TreeBreaker.java:127) - (ROOT
+  (FRAG [5.811] (JJ [1.948] post)))
+
+
+DEBUG (TreeBreaker.java:283) - New answers: post 
+DEBUG (StanfordParser.java:149) - Parsing sentence
+DEBUG (StanfordParser.java:154) - Tokenization: [post]
+DEBUG (StanfordParser.java:149) - Parsing sentence
+DEBUG (StanfordParser.java:154) - Tokenization: [post]
+DEBUG (UnmovableTreeMarker.java:114) - After UNMV: (ROOT
+  (FRAG (JJ post-1)))
+
+DEBUG (VerbDecomposer.java:142) - Decomposing the verb
+
+DEBUG (VerbDecomposer.java:242) - No verb found here, returning null.
+DEBUG (VerbDecomposer.java:243) - Tree: (ROOT
+  (FRAG (JJ post-1)))
+
+ INFO (OpenAryhpe.java:124) - OpenAryhpe started at 2015-04-09 12:18:52

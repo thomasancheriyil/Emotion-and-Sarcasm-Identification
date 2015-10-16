@@ -1,0 +1,8 @@
+oh	UH	H	S
+Indian	JJ	N	H
+team	NN	N	N
+won	VBD	H	H
+match	NN	N	N
+hurt	NN	S	H
+bad	JJ	S	N
+

@@ -1,0 +1,3009 @@
+1. Paragraph 1:<br>
+Tomorrow is my best friend birthday! Some of our old friends are gonna turn up, so its gonna be the best. I baked the cake myself! I'm pretty sure its gonna taste awesome. Touch my cake today and I will cut you.
+
+[[PageBreak]]
+
+1005. [Sentence]: I will cut you .<br>
+[Question]: Will I cut you?
+
+1001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+1002. Is the question grammatical?
+
+Yes
+No
+
+1006. [Answer]: yes
+
+1003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+1004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+2005. [Sentence]: its gonna taste awesome .<br>
+[Question]: Do its gonna taste awesome?
+
+2001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+2002. Is the question grammatical?
+
+Yes
+No
+
+2006. [Answer]: yes
+
+2003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+2004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+3005. [Sentence]: its gonna be the best .<br>
+[Question]: What be its gonna?
+
+3001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+3002. Is the question grammatical?
+
+Yes
+No
+
+3006. [Answer]: the best
+
+3003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+3004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+4005. [Sentence]: its gonna be the best .<br>
+[Question]: Be its gonna the best?
+
+4001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+4002. Is the question grammatical?
+
+Yes
+No
+
+4006. [Answer]: yes
+
+4003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+4004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+5005. [Sentence]: some of our old friends are gonna turn up .<br>
+[Question]: Are some of our old friends gonna turn up?
+
+5001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+5002. Is the question grammatical?
+
+Yes
+No
+
+5006. [Answer]: yes
+
+5003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+5004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+6005. [Sentence]: tomorrow is my best friend birthday !<br>
+[Question]: What is my best friend birthday?
+
+6001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+6002. Is the question grammatical?
+
+Yes
+No
+
+6006. [Answer]: tomorrow
+
+6003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+6004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+7005. [Sentence]: tomorrow is my best friend birthday !<br>
+[Question]: Is tomorrow my best friend birthday?
+
+7001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+7002. Is the question grammatical?
+
+Yes
+No
+
+7006. [Answer]: yes
+
+7003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+7004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+8005. [Sentence]: I baked the cake myself !<br>
+[Question]: What does I bake myself?
+
+8001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+8002. Is the question grammatical?
+
+Yes
+No
+
+8006. [Answer]: the cake
+
+8003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+8004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+9005. [Sentence]: I baked the cake myself !<br>
+[Question]: Does I bake the cake myself?
+
+9001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+9002. Is the question grammatical?
+
+Yes
+No
+
+9006. [Answer]: yes
+
+9003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+9004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+2. Paragraph 2:<br>
+post
+
+[[PageBreak]]
+
+3. Paragraph 3:<br>
+I was third to last in a marathon of about 2000 runners. I came in less than 3 minutes under the maximum time. I got the medal. And I beat about 6 billion people who have never run a marathon.
+
+[[PageBreak]]
+
+10005. [Sentence]: about 6 billion people have never run a marathon .<br>
+[Question]: What have never run a marathon?
+
+10001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+10002. Is the question grammatical?
+
+Yes
+No
+
+10006. [Answer]: about 6 billion people
+
+10003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+10004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+11005. [Sentence]: about 6 billion people have never run a marathon .<br>
+[Question]: What have about 6 billion people never run?
+
+11001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+11002. Is the question grammatical?
+
+Yes
+No
+
+11006. [Answer]: a marathon
+
+11003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+11004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+12005. [Sentence]: about 6 billion people have never run a marathon .<br>
+[Question]: Have about 6 billion people never run a marathon?
+
+12001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+12002. Is the question grammatical?
+
+Yes
+No
+
+12006. [Answer]: yes
+
+12003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+12004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+13005. [Sentence]: I was third to last in a marathon of about 2000 runners .<br>
+[Question]: What was I third to last in?
+
+13001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+13002. Is the question grammatical?
+
+Yes
+No
+
+13006. [Answer]: a marathon of about 2000 runners
+
+13003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+13004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+14005. [Sentence]: I was third to last in a marathon of about 2000 runners .<br>
+[Question]: Was I third to last in a marathon of about 2000 runners?
+
+14001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+14002. Is the question grammatical?
+
+Yes
+No
+
+14006. [Answer]: yes
+
+14003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+14004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+15005. [Sentence]: I came in less than 3 minutes under the maximum time .<br>
+[Question]: What did I come in under the maximum time?
+
+15001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+15002. Is the question grammatical?
+
+Yes
+No
+
+15006. [Answer]: less than 3 minutes
+
+15003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+15004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+16005. [Sentence]: I came in less than 3 minutes under the maximum time .<br>
+[Question]: What did I come in less than 3 minutes under?
+
+16001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+16002. Is the question grammatical?
+
+Yes
+No
+
+16006. [Answer]: the maximum time
+
+16003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+16004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+17005. [Sentence]: I came in less than 3 minutes under the maximum time .<br>
+[Question]: Did I come in less than 3 minutes under the maximum time?
+
+17001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+17002. Is the question grammatical?
+
+Yes
+No
+
+17006. [Answer]: yes
+
+17003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+17004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+18005. [Sentence]: I got the medal .<br>
+[Question]: What did I get?
+
+18001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+18002. Is the question grammatical?
+
+Yes
+No
+
+18006. [Answer]: the medal
+
+18003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+18004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+19005. [Sentence]: I got the medal .<br>
+[Question]: Did I get the medal?
+
+19001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+19002. Is the question grammatical?
+
+Yes
+No
+
+19006. [Answer]: yes
+
+19003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+19004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+4. Paragraph 4:<br>
+post
+
+[[PageBreak]]
+
+5. Paragraph 5:<br>
+Yeah, totally.Because each woman in India can be generalised into a single category, wherein each has similar tastes and sense of humour. All Indian women have a terrible sense of humour and thus hate sarcasm. None of them find Chandler Bing hot. And this cannot be a sarcastic answer, because I am an Indian woman.
+
+[[PageBreak]]
+
+20005. [Sentence]: I am an Indian woman .<br>
+[Question]: What am I?
+
+20001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+20002. Is the question grammatical?
+
+Yes
+No
+
+20006. [Answer]: an Indian woman
+
+20003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+20004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+21005. [Sentence]: I am an Indian woman .<br>
+[Question]: Am I an Indian woman?
+
+21001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+21002. Is the question grammatical?
+
+Yes
+No
+
+21006. [Answer]: yes
+
+21003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+21004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+22005. [Sentence]: all Indian women have a terrible sense of humor .<br>
+[Question]: What have a terrible sense of humor?
+
+22001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+22002. Is the question grammatical?
+
+Yes
+No
+
+22006. [Answer]: all Indian women
+
+22003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+22004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+23005. [Sentence]: all Indian women have a terrible sense of humor .<br>
+[Question]: What do all Indian women have?
+
+23001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+23002. Is the question grammatical?
+
+Yes
+No
+
+23006. [Answer]: a terrible sense of humor
+
+23003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+23004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+24005. [Sentence]: all Indian women have a terrible sense of humor .<br>
+[Question]: Do all Indian women have a terrible sense of humor?
+
+24001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+24002. Is the question grammatical?
+
+Yes
+No
+
+24006. [Answer]: yes
+
+24003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+24004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+25005. [Sentence]: all Indian women thus hate sarcasm .<br>
+[Question]: What thus hate sarcasm?
+
+25001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+25002. Is the question grammatical?
+
+Yes
+No
+
+25006. [Answer]: all Indian women
+
+25003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+25004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+26005. [Sentence]: all Indian women thus hate sarcasm .<br>
+[Question]: What do all Indian women thus hate?
+
+26001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+26002. Is the question grammatical?
+
+Yes
+No
+
+26006. [Answer]: sarcasm
+
+26003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+26004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+27005. [Sentence]: all Indian women thus hate sarcasm .<br>
+[Question]: Do all Indian women thus hate sarcasm?
+
+27001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+27002. Is the question grammatical?
+
+Yes
+No
+
+27006. [Answer]: yes
+
+27003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+27004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+28005. [Sentence]: each woman in India can be generalised into a single category .<br>
+[Question]: What can be generalised into a single category?
+
+28001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+28002. Is the question grammatical?
+
+Yes
+No
+
+28006. [Answer]: each woman in India
+
+28003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+28004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+29005. [Sentence]: each woman in India can be generalised into a single category .<br>
+[Question]: What can each woman in India be generalised into?
+
+29001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+29002. Is the question grammatical?
+
+Yes
+No
+
+29006. [Answer]: a single category
+
+29003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+29004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+30005. [Sentence]: each woman in India can be generalised into a single category .<br>
+[Question]: Which country can each woman be generalised into a single category?
+
+30001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+30002. Is the question grammatical?
+
+Yes
+No
+
+30006. [Answer]: in India
+
+30003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+30004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+31005. [Sentence]: each woman in India can be generalised into a single category .<br>
+[Question]: In which country can each woman be generalised into a single category?
+
+31001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+31002. Is the question grammatical?
+
+Yes
+No
+
+31006. [Answer]: in India
+
+31003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+31004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+32005. [Sentence]: each woman in India can be generalised into a single category .<br>
+[Question]: Where can each woman be generalised into a single category?
+
+32001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+32002. Is the question grammatical?
+
+Yes
+No
+
+32006. [Answer]: in India
+
+32003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+32004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+33005. [Sentence]: each woman in India can be generalised into a single category .<br>
+[Question]: In which location can each woman be generalised into a single category?
+
+33001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+33002. Is the question grammatical?
+
+Yes
+No
+
+33006. [Answer]: in India
+
+33003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+33004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+34005. [Sentence]: each woman in India can be generalised into a single category .<br>
+[Question]: Can each woman in India be generalised into a single category?
+
+34001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+34002. Is the question grammatical?
+
+Yes
+No
+
+34006. [Answer]: yes
+
+34003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+34004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+35005. [Sentence]: yeah , totally . Because each woman in India can be generalised into a single category , wherein each has similar tastes and sense of humour .<br>
+[Question]: Yeah what each has similar tastes and sense of humor?
+
+35001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+35002. Is the question grammatical?
+
+Yes
+No
+
+35006. [Answer]: wherein
+
+35003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+35004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+36005. [Sentence]: yeah , totally . Because each woman in India can be generalised into a single category , wherein each has similar tastes and sense of humour .<br>
+[Question]: What does yeah wherein each have?
+
+36001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+36002. Is the question grammatical?
+
+Yes
+No
+
+36006. [Answer]: similar tastes and sense of humor
+
+36003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+36004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+37005. [Sentence]: yeah , totally . Because each woman in India can be generalised into a single category , wherein each has similar tastes and sense of humour .<br>
+[Question]: Does yeah wherein each have similar tastes and sense of humor?
+
+37001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+37002. Is the question grammatical?
+
+Yes
+No
+
+37006. [Answer]: yes
+
+37003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+37004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+38005. [Sentence]: none of them find Chandler Bing hot .<br>
+[Question]: Who do none of them find hot?
+
+38001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+38002. Is the question grammatical?
+
+Yes
+No
+
+38006. [Answer]: Chandler Bing
+
+38003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+38004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+39005. [Sentence]: none of them find Chandler Bing hot .<br>
+[Question]: Do none of them find Chandler Bing hot?
+
+39001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+39002. Is the question grammatical?
+
+Yes
+No
+
+39006. [Answer]: yes
+
+39003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+39004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+6. Paragraph 6:<br>
+post
+
+[[PageBreak]]
+
+7. Paragraph 7:<br>
+Ab DeVillers has a chance to be the greatest batsman who made his debut in the new millennium. Any other sort of elevation, in addition to being premature, would be a gross exaggeration. He is, however, the most innovative shot player I have seen.
+
+[[PageBreak]]
+
+40005. [Sentence]: the greatest batsman made his debut in the new millennium .<br>
+[Question]: What made his debut in the new millennium?
+
+40001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+40002. Is the question grammatical?
+
+Yes
+No
+
+40006. [Answer]: the greatest batsman
+
+40003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+40004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+41005. [Sentence]: the greatest batsman made his debut in the new millennium .<br>
+[Question]: What did the greatest batsman make his debut in?
+
+41001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+41002. Is the question grammatical?
+
+Yes
+No
+
+41006. [Answer]: the new millennium
+
+41003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+41004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+42005. [Sentence]: the greatest batsman made his debut in the new millennium .<br>
+[Question]: Did the greatest batsman make his debut in the new millennium?
+
+42001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+42002. Is the question grammatical?
+
+Yes
+No
+
+42006. [Answer]: yes
+
+42003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+42004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+43005. [Sentence]: ab DeVillers has a chance to be the greatest batsman who made his debut in the new millennium .<br>
+[Question]: What has a chance to be the greatest batsman who made his debut in the new millennium?
+
+43001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+43002. Is the question grammatical?
+
+Yes
+No
+
+43006. [Answer]: ab DeVillers
+
+43003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+43004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+44005. [Sentence]: ab DeVillers has a chance to be the greatest batsman who made his debut in the new millennium .<br>
+[Question]: Does ab DeVillers have a chance to be the greatest batsman who made his debut in the new millennium?
+
+44001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+44002. Is the question grammatical?
+
+Yes
+No
+
+44006. [Answer]: yes
+
+44003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+44004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+45005. [Sentence]: any other sort of elevation , in addition to being premature , would be a gross exaggeration .<br>
+[Question]: What would be a gross exaggeration?
+
+45001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+45002. Is the question grammatical?
+
+Yes
+No
+
+45006. [Answer]: any other sort of elevation , in addition to being premature ,
+
+45003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+45004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+46005. [Sentence]: any other sort of elevation , in addition to being premature , would be a gross exaggeration .<br>
+[Question]: What would any other sort of elevation , in addition to being premature , be?
+
+46001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+46002. Is the question grammatical?
+
+Yes
+No
+
+46006. [Answer]: a gross exaggeration
+
+46003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+46004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+47005. [Sentence]: any other sort of elevation , in addition to being premature , would be a gross exaggeration .<br>
+[Question]: Would any other sort of elevation , in addition to being premature , be a gross exaggeration?
+
+47001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+47002. Is the question grammatical?
+
+Yes
+No
+
+47006. [Answer]: yes
+
+47003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+47004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+48005. [Sentence]: he is , however , the most innovative shot player I have seen .<br>
+[Question]: Is he , however , the most innovative shot player I have seen?
+
+48001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+48002. Is the question grammatical?
+
+Yes
+No
+
+48006. [Answer]: yes
+
+48003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+48004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+8. Paragraph 8:<br>
+post
+
+[[PageBreak]]
+
+9. Paragraph 9:<br>
+Indian team lost the match and they are celebrating. I feel embarassed for watching this dreadful match. I might as well have done something productive :-(
+
+[[PageBreak]]
+
+49005. [Sentence]: I might as well have done something productive .<br>
+[Question]: What might I as well have done productive?
+
+49001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+49002. Is the question grammatical?
+
+Yes
+No
+
+49006. [Answer]: something
+
+49003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+49004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+50005. [Sentence]: I might as well have done something productive .<br>
+[Question]: Might I as well have done something productive?
+
+50001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+50002. Is the question grammatical?
+
+Yes
+No
+
+50006. [Answer]: yes
+
+50003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+50004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+51005. [Sentence]: they are celebrating .<br>
+[Question]: Are they celebrating?
+
+51001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+51002. Is the question grammatical?
+
+Yes
+No
+
+51006. [Answer]: yes
+
+51003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+51004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+52005. [Sentence]: Indian team lost the match .<br>
+[Question]: What lost the match?
+
+52001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+52002. Is the question grammatical?
+
+Yes
+No
+
+52006. [Answer]: Indian team
+
+52003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+52004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+53005. [Sentence]: Indian team lost the match .<br>
+[Question]: What did Indian team lose?
+
+53001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+53002. Is the question grammatical?
+
+Yes
+No
+
+53006. [Answer]: the match
+
+53003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+53004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+54005. [Sentence]: Indian team lost the match .<br>
+[Question]: Did Indian team lose the match?
+
+54001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+54002. Is the question grammatical?
+
+Yes
+No
+
+54006. [Answer]: yes
+
+54003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+54004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+55005. [Sentence]: I feel embarassed for watching this dreadful match .<br>
+[Question]: What do I feel embarassed for watching?
+
+55001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+55002. Is the question grammatical?
+
+Yes
+No
+
+55006. [Answer]: this dreadful match
+
+55003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+55004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+56005. [Sentence]: I feel embarassed for watching this dreadful match .<br>
+[Question]: Do I feel embarassed for watching this dreadful match?
+
+56001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+56002. Is the question grammatical?
+
+Yes
+No
+
+56006. [Answer]: yes
+
+56003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+56004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+10. Paragraph 10:<br>
+post
+
+[[PageBreak]]
+
+11. Paragraph 11:<br>
+The Internet erupted in an energetic debate yesterday about whether an ugly dress was blue and black or white and gold, with celebrities weighing in. It  sounds inane, but the dress question was actually tricky: Some declared  themselves firmly in the blue and black camp, only to have the dress  appear white and gold when they looked back a few hours later. These kind of notifications annoy me the most. I don't see a point.
+
+[[PageBreak]]
+
+57005. [Sentence]: they looked back a few hours later .<br>
+[Question]: What did they look back later?
+
+57001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+57002. Is the question grammatical?
+
+Yes
+No
+
+57006. [Answer]: a few hours
+
+57003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+57004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+58005. [Sentence]: they looked back a few hours later .<br>
+[Question]: Did they look back a few hours later?
+
+58001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+58002. Is the question grammatical?
+
+Yes
+No
+
+58006. [Answer]: yes
+
+58003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+58004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+59005. [Sentence]: the dress appear white and gold .<br>
+[Question]: What color do the dress appear?
+
+59001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+59002. Is the question grammatical?
+
+Yes
+No
+
+59006. [Answer]: white and gold
+
+59003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+59004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+60005. [Sentence]: the dress appear white and gold .<br>
+[Question]: What color do the dress appear and gold?
+
+60001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+60002. Is the question grammatical?
+
+Yes
+No
+
+60006. [Answer]: white
+
+60003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+60004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+61005. [Sentence]: the dress appear white and gold .<br>
+[Question]: What color do the dress appear white and?
+
+61001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+61002. Is the question grammatical?
+
+Yes
+No
+
+61006. [Answer]: gold
+
+61003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+61004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+62005. [Sentence]: the dress appear white and gold .<br>
+[Question]: What material do the dress appear white and?
+
+62001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+62002. Is the question grammatical?
+
+Yes
+No
+
+62006. [Answer]: gold
+
+62003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+62004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+63005. [Sentence]: the dress appear white and gold .<br>
+[Question]: What metal do the dress appear white and?
+
+63001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+63002. Is the question grammatical?
+
+Yes
+No
+
+63006. [Answer]: gold
+
+63003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+63004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+64005. [Sentence]: the dress appear white and gold .<br>
+[Question]: What mineral do the dress appear white and?
+
+64001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+64002. Is the question grammatical?
+
+Yes
+No
+
+64006. [Answer]: gold
+
+64003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+64004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+65005. [Sentence]: the dress appear white and gold .<br>
+[Question]: What appear white and gold?
+
+65001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+65002. Is the question grammatical?
+
+Yes
+No
+
+65006. [Answer]: the dress
+
+65003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+65004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+66005. [Sentence]: the dress appear white and gold .<br>
+[Question]: What do the dress appear?
+
+66001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+66002. Is the question grammatical?
+
+Yes
+No
+
+66006. [Answer]: white and gold
+
+66003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+66004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+67005. [Sentence]: the dress appear white and gold .<br>
+[Question]: Do the dress appear white and gold?
+
+67001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+67002. Is the question grammatical?
+
+Yes
+No
+
+67006. [Answer]: yes
+
+67003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+67004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+68005. [Sentence]: some declared themselves firmly in the blue and black camp , only to have the dress appear white and gold when they looked back a few hours later .<br>
+[Question]: What declared themselves firmly in the blue and black camp , only to have the dress appear white and gold when they looked back a few hours later?
+
+68001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+68002. Is the question grammatical?
+
+Yes
+No
+
+68006. [Answer]: some
+
+68003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+68004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+69005. [Sentence]: some declared themselves firmly in the blue and black camp , only to have the dress appear white and gold when they looked back a few hours later .<br>
+[Question]: Did some declare themselves firmly in the blue and black camp , only to have the dress appear white and gold when they looked back a few hours later?
+
+69001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+69002. Is the question grammatical?
+
+Yes
+No
+
+69006. [Answer]: yes
+
+69003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+69004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+70005. [Sentence]: the dress question was actually tricky .<br>
+[Question]: What was actually tricky?
+
+70001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+70002. Is the question grammatical?
+
+Yes
+No
+
+70006. [Answer]: the dress question
+
+70003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+70004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+71005. [Sentence]: the dress question was actually tricky .<br>
+[Question]: Was the dress question actually tricky?
+
+71001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+71002. Is the question grammatical?
+
+Yes
+No
+
+71006. [Answer]: yes
+
+71003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+71004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+72005. [Sentence]: it sounds inane .<br>
+[Question]: Does it sound inane?
+
+72001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+72002. Is the question grammatical?
+
+Yes
+No
+
+72006. [Answer]: yes
+
+72003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+72004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+73005. [Sentence]: the Internet erupted in an energetic debate yesterday about whether an ugly dress was blue and black or white and gold , with celebrities weighing in .<br>
+[Question]: What erupted in an energetic debate yesterday about whether an ugly dress was blue and black or white and gold , with celebrities weighing in?
+
+73001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+73002. Is the question grammatical?
+
+Yes
+No
+
+73006. [Answer]: the Internet
+
+73003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+73004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+74005. [Sentence]: the Internet erupted in an energetic debate yesterday about whether an ugly dress was blue and black or white and gold , with celebrities weighing in .<br>
+[Question]: What did the Internet erupt in yesterday about whether an ugly dress was blue and black or white and gold , with celebrities weighing in?
+
+74001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+74002. Is the question grammatical?
+
+Yes
+No
+
+74006. [Answer]: an energetic debate
+
+74003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+74004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+75005. [Sentence]: the Internet erupted in an energetic debate yesterday about whether an ugly dress was blue and black or white and gold , with celebrities weighing in .<br>
+[Question]: What did the Internet erupt in an energetic debate about whether an ugly dress was blue and black or white and gold , with celebrities weighing in?
+
+75001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+75002. Is the question grammatical?
+
+Yes
+No
+
+75006. [Answer]: yesterday
+
+75003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+75004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+76005. [Sentence]: the Internet erupted in an energetic debate yesterday about whether an ugly dress was blue and black or white and gold , with celebrities weighing in .<br>
+[Question]: What did the Internet erupt in an energetic debate yesterday about?
+
+76001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+76002. Is the question grammatical?
+
+Yes
+No
+
+76006. [Answer]: whether an ugly dress was blue and black or white and gold , with celebrities weighing in
+
+76003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+76004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+77005. [Sentence]: the Internet erupted in an energetic debate yesterday about whether an ugly dress was blue and black or white and gold , with celebrities weighing in .<br>
+[Question]: Did the Internet erupt in an energetic debate yesterday about whether an ugly dress was blue and black or white and gold , with celebrities weighing in?
+
+77001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+77002. Is the question grammatical?
+
+Yes
+No
+
+77006. [Answer]: yes
+
+77003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+77004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+78005. [Sentence]: celebrities are weighing in .<br>
+[Question]: What are weighing in?
+
+78001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+78002. Is the question grammatical?
+
+Yes
+No
+
+78006. [Answer]: celebrities
+
+78003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+78004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+79005. [Sentence]: celebrities are weighing in .<br>
+[Question]: Are celebrities weighing in?
+
+79001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+79002. Is the question grammatical?
+
+Yes
+No
+
+79006. [Answer]: yes
+
+79003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+79004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+80005. [Sentence]: these kind of notifications annoy me the most .<br>
+[Question]: What annoy me the most?
+
+80001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+80002. Is the question grammatical?
+
+Yes
+No
+
+80006. [Answer]: these kind of notifications
+
+80003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+80004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+81005. [Sentence]: these kind of notifications annoy me the most .<br>
+[Question]: Do these kind of notifications annoy me the most?
+
+81001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+81002. Is the question grammatical?
+
+Yes
+No
+
+81006. [Answer]: yes
+
+81003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+81004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+82005. [Sentence]: I don ' t see a point .<br>
+[Question]: What do I n't see?
+
+82001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+82002. Is the question grammatical?
+
+Yes
+No
+
+82006. [Answer]: a point
+
+82003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+82004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+83005. [Sentence]: I don ' t see a point .<br>
+[Question]: Do I n't see a point?
+
+83001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+83002. Is the question grammatical?
+
+Yes
+No
+
+83006. [Answer]: no
+
+83003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+83004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+12. Paragraph 12:<br>
+post
+
+[[PageBreak]]
+
+13. Paragraph 13:<br>
+I get a text at 3 a.m. on July 29th. He asked me if I was a virgin. I really did not know where that came from, but I was scared. However, I gathered my courage and replied. He  did not reply. He started picking my calls, but never spoke  wholeheartedly. Even upon repeated questioning, he never told me the reason  for his behaviour. I was really depressed and worried.
+
+[[PageBreak]]
+
+84005. [Sentence]: however , I gathered my courage .<br>
+[Question]: Did however , I gather my courage?
+
+84001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+84002. Is the question grammatical?
+
+Yes
+No
+
+84006. [Answer]: yes
+
+84003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+84004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+85005. [Sentence]: however , I replied .<br>
+[Question]: Did however , I reply?
+
+85001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+85002. Is the question grammatical?
+
+Yes
+No
+
+85006. [Answer]: yes
+
+85003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+85004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+86005. [Sentence]: I was scared .<br>
+[Question]: Was I scared?
+
+86001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+86002. Is the question grammatical?
+
+Yes
+No
+
+86006. [Answer]: yes
+
+86003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+86004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+87005. [Sentence]: that came from .<br>
+[Question]: What came from?
+
+87001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+87002. Is the question grammatical?
+
+Yes
+No
+
+87006. [Answer]: that
+
+87003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+87004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+88005. [Sentence]: that came from .<br>
+[Question]: Did that come from?
+
+88001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+88002. Is the question grammatical?
+
+Yes
+No
+
+88006. [Answer]: yes
+
+88003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+88004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+89005. [Sentence]: I really did not know where that came from .<br>
+[Question]: Did I really not know where that came from?
+
+89001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+89002. Is the question grammatical?
+
+Yes
+No
+
+89006. [Answer]: no
+
+89003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+89004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+90005. [Sentence]: I was a virgin .<br>
+[Question]: What was I?
+
+90001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+90002. Is the question grammatical?
+
+Yes
+No
+
+90006. [Answer]: a virgin
+
+90003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+90004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+91005. [Sentence]: I was a virgin .<br>
+[Question]: Was I a virgin?
+
+91001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+91002. Is the question grammatical?
+
+Yes
+No
+
+91006. [Answer]: yes
+
+91003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+91004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+92005. [Sentence]: I get a text at 3 a . m . on July 29 th .<br>
+[Question]: What do I get on July 29th?
+
+92001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+92002. Is the question grammatical?
+
+Yes
+No
+
+92006. [Answer]: a text at 3 a.m.
+
+92003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+92004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+93005. [Sentence]: I get a text at 3 a . m . on July 29 th .<br>
+[Question]: What do I get a text at 3 a.m. on?
+
+93001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+93002. Is the question grammatical?
+
+Yes
+No
+
+93006. [Answer]: July 29th
+
+93003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+93004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+94005. [Sentence]: I get a text at 3 a . m . on July 29 th .<br>
+[Question]: Do I get a text at 3 a.m. on July 29th?
+
+94001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+94002. Is the question grammatical?
+
+Yes
+No
+
+94006. [Answer]: yes
+
+94003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+94004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+95005. [Sentence]: he asked me if I was a virgin .<br>
+[Question]: Did he ask me if I was a virgin?
+
+95001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+95002. Is the question grammatical?
+
+Yes
+No
+
+95006. [Answer]: yes
+
+95003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+95004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+96005. [Sentence]: he did not reply .<br>
+[Question]: Did he not reply?
+
+96001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+96002. Is the question grammatical?
+
+Yes
+No
+
+96006. [Answer]: no
+
+96003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+96004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+97005. [Sentence]: even upon repeated questioning , he never told me the reason for his behaviour .<br>
+[Question]: What did even upon repeated questioning , he never tell me for his behavior?
+
+97001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+97002. Is the question grammatical?
+
+Yes
+No
+
+97006. [Answer]: the reason
+
+97003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+97004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+98005. [Sentence]: even upon repeated questioning , he never told me the reason for his behaviour .<br>
+[Question]: Did even upon repeated questioning , he never tell me the reason for his behavior?
+
+98001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+98002. Is the question grammatical?
+
+Yes
+No
+
+98006. [Answer]: yes
+
+98003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+98004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+99005. [Sentence]: I was really depressed and worried .<br>
+[Question]: Was I really depressed and worried?
+
+99001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+99002. Is the question grammatical?
+
+Yes
+No
+
+99006. [Answer]: yes
+
+99003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+99004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+14. Paragraph 14:<br>
+post
+
+[[PageBreak]]
+
+15. Paragraph 15:<br>
+The saddest feeling in the world is watching your father cry.
+
+[[PageBreak]]
+
+100005. [Sentence]: the saddest feeling in the world is watching your father cry .<br>
+[Question]: What is watching your father cry?
+
+100001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+100002. Is the question grammatical?
+
+Yes
+No
+
+100006. [Answer]: the saddest feeling in the world
+
+100003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+100004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+101005. [Sentence]: the saddest feeling in the world is watching your father cry .<br>
+[Question]: Is the saddest feeling in the world watching your father cry?
+
+101001. Is the question understandable?
+
+Understandable as is
+Understandable only when knowing topic context
+None of the above
+
+101002. Is the question grammatical?
+
+Yes
+No
+
+101006. [Answer]: yes
+
+101003. Is the answer relevant?
+
+Relevant as is
+Relevant only when knowing the topic context
+None of the above
+
+101004.  If the answer is relevant, is the answer grammatical? (click "No" when you answered "none of the above " in the last question.)
+
+Yes
+No
+
+[[PageBreak]]
+
+16. Paragraph 16:<br>
+post
+
+[[PageBreak]]
+
